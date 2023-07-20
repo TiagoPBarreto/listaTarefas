@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">listaTarefas</string>
+    <string name="seja_bem_vindo_a">Seja bem-vindo (a)</string>
+    <string name="categorias">Categorias:</string>
+    <string name="tarefas">Tarefas:</string>
+    <string name="sua_tarefa">Sua Tarefa</string>
+    <string name="negocio">Negocio</string>
+    <string name="persoal">Pessoal</string>
+    <string name="outros">Outros</string>
+    <string name="criar_tarefa">Criar Tarefa</string>
+</resources>
